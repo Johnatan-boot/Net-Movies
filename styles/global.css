@@ -1,0 +1,26 @@
+
+
+/* Google Fonts */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap");
+/* General Reset and Global Styles */
+* {
+  font-family: "Poppins", sans-serif; /* Clean and modern font */
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+  scroll-padding-top: 2rem;
+  scroll-behavior: smooth;
+}
+/* Color Scheme */
+:root {
+  --main-color: #ff2c1f; /* Bold red for key elements */
+  --text-color: #020307; /* Dark text for readability */
+  --bg-color: #fff; /* White background for clean design */
+}
+
+
+
+
+
